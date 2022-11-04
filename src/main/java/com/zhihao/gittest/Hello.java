@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("Hello Git hot-fix test");
         System.out.println("Hello Git");
         System.out.println("Hello Git ssh push");
+        System.out.println("Hello Git ssh pull");
     }
 }
